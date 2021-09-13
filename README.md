@@ -1,4 +1,4 @@
-# Bank-Stock-Prices-Regression
+# Bank-Stock-Prices-Prediction
 
 The objective of this project is to predict the stock market prices of each of the "Big Five Banks" in Canada over a time period of five years. These banks include:
 
