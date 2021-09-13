@@ -10,11 +10,13 @@ The objective of this project is to predict the stock market prices of each of t
 
 ## Dataset:
 
-The .csv data files for each model were retrieved from Yahoo Finance (see References) and can be found in the "data" folder. Although the data presented a five-year period, each model can also work for longer periods.
+The .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder.
 
 ## Models:
 
-The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Each model contains multiple layers with Dropout regularization to reduce the likelihood of overfitting. Although the model captured the trends over a five year time frame, this can be scaled to even longer periods.
+The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Each model contains multiple layers with Dropout regularization to reduce the likelihood of overfitting (model performs adequately in training, but poorly in testing/validation). Although the model captured the trends over a five year time frame, this can be scaled to even longer periods.
+
+Due to the highly unpredictable nature of stock markets, the performances of each model can vary over time. Thus, the intentions of each model were to capture (as closely as possible) the overall trends of the stock markets. In other words, each model was designed to determine if the stock market prices were increasing or decreasing.
 
 ## References:
 
