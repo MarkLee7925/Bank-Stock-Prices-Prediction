@@ -8,7 +8,7 @@ The objective of this project is to predict the stock market prices of each of t
 - Bank of Nova Scotia (Scotiabank)
 - Toronto Dominion Bank (TD Bank)
 
-## Dataset:
+## Datasets:
 
 The .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder.
 
