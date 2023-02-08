@@ -5,7 +5,7 @@ The objective of this project is to predict the stock market prices of each of t
 - Bank of Montreal (BMO)
 - Canadian Imperial Bank of Commerce (CIBC)
 - Royal Bank of Canada (RBC)
-- Bank of Nova Scotia (Scotiabank)
+- Bank of Nova Scotia (BNS, Scotiabank)
 - Toronto Dominion Bank (TD Bank)
 
 ## Datasets:
