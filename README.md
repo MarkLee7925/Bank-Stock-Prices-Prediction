@@ -1,6 +1,6 @@
 # Bank-Stock-Prices-Prediction
 
-The objective of this project is to predict the stock market prices of each of the "Big Five Banks" in Canada over a time period of five years. These banks include:
+The objective of this project is to predict the (closing) stock market prices of each of the "Big Five Banks" in Canada over a time period of over five years. These banks include:
 
 - Bank of Montreal (BMO)
 - Canadian Imperial Bank of Commerce (CIBC)
