@@ -25,7 +25,7 @@ Due to the highly unpredictable nature of stock markets, the performances of eac
 
 ## DISCLAIMER:
 
-This project is for illustration purposes ONLY! It was never meant to be used for any financial consultation or advice in any way. Please consult your local financial advisor for any advice or concerns.
+This project is for illustration purposes only! Any results shown should never be used for financial consultation or guidance whatsoever. Please consult your local financial advisor for any advice or concerns.
 
 ## References:
 
