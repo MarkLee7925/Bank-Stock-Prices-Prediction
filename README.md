@@ -20,7 +20,7 @@ Due to the highly unpredictable nature of stock markets, the performances of eac
 
 ## Results at a glance:
 
-
+![BankStockPred](BankStockPred.jpg)
 
 ## DISCLAIMER:
 
