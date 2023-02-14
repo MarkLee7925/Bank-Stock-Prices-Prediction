@@ -12,16 +12,14 @@ The objective of this project is to predict the (closing) stock market prices of
 
 All .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder.
 
+![BankStockPred](https://user-images.githubusercontent.com/59748085/218864934-a2c57d9a-026b-4a7c-b5cb-611008c861f5.JPG)
+*created using Power BI.
+
 ## Models:
 
 The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Although the trends were captured over a 7+ year period, these can be modified as per user preferences.
 
 Due to the highly unpredictable nature of stock markets, the performances of each model will vary over time. Thus, the intention was to predict (as closely as possible) the overall trends of the stock prices rather than the actual values themselves. In other words, each model was designed to determine if the stock prices were increasing or decreasing over time.
-
-## Results (at a glance):
-
-![BankStockPred](https://user-images.githubusercontent.com/59748085/218823251-3d0c9a86-16bd-4cd7-8a2a-606b7b248209.JPG)
-*created using Power BI.
 
 ## DISCLAIMER:
 
