@@ -20,7 +20,7 @@ Due to the highly unpredictable nature of stock markets, the performances of eac
 
 ## Results (at a glance):
 
-![BankStockPred](https://user-images.githubusercontent.com/59748085/218822695-01f179a2-e9f5-4337-9bb5-33559e1cb7a8.JPG)
+![BankStockPred](https://user-images.githubusercontent.com/59748085/218823251-3d0c9a86-16bd-4cd7-8a2a-606b7b248209.JPG)
 *created using Power BI.
 
 ## DISCLAIMER:
