@@ -29,6 +29,8 @@ This project is for illustration purposes only! Any results shown should never b
 
 ## References:
 
+_*All stock prices were obtained from Yahoo finance:_
+
 - BMO: https://finance.yahoo.com/quote/BMO.TO/history?period1=1426118400&period2=1675987200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 - CIBC: https://finance.yahoo.com/quote/CM-PQ.TO/history?period1=1426118400&period2=1675987200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 - RBC: https://finance.yahoo.com/quote/RY.TO/history?period1=1426118400&period2=1675987200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
