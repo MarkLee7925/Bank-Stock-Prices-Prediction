@@ -18,7 +18,7 @@ The stock market trends were predicted using Long Short-Term Memory (LSTM) model
 
 Due to the highly unpredictable nature of stock markets, the performances of each model will vary over time. Thus, the intention was to predict (as closely as possible) the overall trends of the stock prices rather than the actual values themselves. In other words, each model was designed to determine if the stock prices were increasing or decreasing over time.
 
-## Results at a glance:
+## Results (at a glance):
 
 ![BankStockPred](https://user-images.githubusercontent.com/59748085/218788815-e596d14d-e5a3-4a7c-bf23-088a5bcf574b.JPG)
 *created using Power BI.
