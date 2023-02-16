@@ -12,7 +12,7 @@ The objective of this project is to predict the (closing) stock market prices of
 
 All .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder.
 
-![BankStockPred](https://user-images.githubusercontent.com/59748085/219475156-7b64c20e-e462-4528-a769-e581e742c71b.JPG)
+![BankStockPred](https://user-images.githubusercontent.com/59748085/219475352-5ee6e0cc-16bc-4d1d-9cb6-ca3e73013858.JPG)
 *created using Power BI.
 
 ## Models:
