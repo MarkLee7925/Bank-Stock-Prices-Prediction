@@ -17,7 +17,7 @@ All .csv data files for each model were retrieved from Yahoo Finance (see Refere
 
 ## Models:
 
-The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Although the trends were captured over a 7+ year period, these can be modified as per user preferences.
+The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Although the trends were captured over an 8+ year period, these can be modified as per user preferences.
 
 Due to the highly unpredictable nature of stock markets, the performances of each model will vary over time. Thus, the intention was to predict (as closely as possible) the overall trends of the stock prices rather than the actual values themselves. In other words, each model was designed to determine if the stock prices were increasing or decreasing over time.
 
