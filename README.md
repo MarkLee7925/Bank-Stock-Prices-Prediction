@@ -12,7 +12,7 @@ The objective of this project is to predict the (closing) stock market prices of
 
 All .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder. Stock price values are in Canadian Dollars (CAD$).
 
-![BankStockPred](https://user-images.githubusercontent.com/59748085/219475352-5ee6e0cc-16bc-4d1d-9cb6-ca3e73013858.JPG)
+![BankStockPred](https://user-images.githubusercontent.com/59748085/225674364-9c1f26a8-d3a0-4ca2-99e9-ae3251ad61e3.JPG)
 *created using Power BI.
 
 ## Models:
