@@ -1,6 +1,6 @@
 # Bank-Stock-Prices-Prediction
 
-The objective of this project is to predict the (closing) stock market prices of each of the "Big Five Banks" in Canada over a (scalable) time period of at least 8 years. These banks include:
+The main objective of this project is to predict the (closing) stock market prices of each of the "Big Five" Banks in Canada for the next 7 days using historical data collected over a (scalable) period of 8+ years. These banks include:
 
 - Bank of Montreal (BMO)
 - Canadian Imperial Bank of Commerce (CIBC)
@@ -10,14 +10,14 @@ The objective of this project is to predict the (closing) stock market prices of
 
 ## Datasets:
 
-All .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder. Stock price values are in Canadian Dollars (CAD$).
+All .csv data files for each model were retrieved from Yahoo Finance (see References) and can be located in the "data" folder. All stock price values are in Canadian Dollars (CAD$).
 
-![BankStockPred](https://user-images.githubusercontent.com/59748085/225675351-26226eaf-27f5-4f14-b9fe-dfb2022976ef.JPG)
+![BankStockPred](https://github.com/MarkLee7925/Bank-Stock-Prices-Prediction/assets/59748085/11d29d7e-1209-4c87-89a9-6cccade446c6)
 *created using Power BI.
 
 ## Models:
 
-The stock market trends were predicted using Long Short-Term Memory (LSTM) models. Although the trends were captured over an 8+ year period, these can be modified as per user preferences.
+The stock market trends were predicted using Long Short-Term Memory (LSTM) models, a type of Recurrent Neural Network (RNN) which predicts future values based on feedback gathered from previous data trends. Although the trends were captured over an 8-year period, these can be modified as per user preferences. To predict the stock price trends over the next 7 days, the rolling (mean) averages were computed and added to the current datasets used for prediction.
 
 Due to the highly unpredictable nature of stock markets, the performances of each model will vary over time. Thus, the intention was to predict (as closely as possible) the overall trends of the stock prices rather than the actual values themselves. In other words, each model was designed to determine if the stock prices were increasing or decreasing over time.
 
